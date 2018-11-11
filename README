@@ -4,6 +4,6 @@
 Reinforcement learning Project
 Built a generalized Atari game player algorithm using only game play pixel information and game score.
 Implemented the policy network as a multinoulli distribution with discounted rewards as the score function.
-Implemented a stochastic model using Policy Gradients with a Feed Forward Neural Network as function approximator 
-and performed model optimization with batch updates using RMSProp.
+Implemented a stochastic model using Policy Gradients with a Feed Forward Neural Network as function approximator and 
+performed model optimization with batch updates using RMSProp.
 Used OpenAI Gym for game environment simulation and TensorFlow for the numerical computations.
